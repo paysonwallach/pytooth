@@ -14,5 +14,5 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/paysonwallach/pytooth",
     packages=setuptools.find_packages(),
-    classifiers=["Bluetooth", "Linux"]
+    classifiers=["Topic :: System :: Networking", "Operating System :: POSIX :: Linux"]
 )
